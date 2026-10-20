@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+footer {
+  background-color: #222;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+footer a {
+  color: lightblue;
+}
+
+footer h3 {
+  margin-bottom: 8px;
+}
+
+footer hr {
+  border: 0;
+  border-top: 1px solid #555;
+  margin: 20px 0;
+}
